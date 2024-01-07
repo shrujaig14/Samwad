@@ -11,7 +11,8 @@ Samwad is a one-stop solution for parents to understand how their children spend
 
 Samwad helps you get insights into any social media chat, both personal and group, to understand what’s going on in their children’s lives. Using this information, parents can keep track of whether their kids are on the right path and take actionable steps just in case they are not.
 
-But [why](https://www.demandsage.com/whatsapp-statistics/) only WhatsApp?
+
+[But why](https://www.demandsage.com/whatsapp-statistics/) only WhatsApp ![whatsapp](https://github.com/shrujaig14/Samwad/assets/134779004/f7e0845f-3387-4c33-9b1c-f1918f569bdb)?
 
 India has the most WhatsApp users with a head count of 535.8 million and WhatsApp is one of the top 3 social media platforms where people spend most of their time.
 
