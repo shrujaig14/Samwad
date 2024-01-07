@@ -3,9 +3,9 @@
 
 #### **Important Note before moving ahead**
 
-*This documentation is purely a human effort and not an AI generated content piece*
+***[This documentation is purely a human effort and not an AI generated content piece]()***
 
-## 1. Overview :
+## 1. Overview 🤔
 
 Samwad is a one-stop solution for parents to understand how their children spend their time on social media.
 
@@ -32,7 +32,7 @@ Samwad is the perfect tool to bridge the communication gap between parents and c
 
 
 
-## 2. Purpose
+## 2. Purpose 🔥
 
 The teenage years of a child are like an era of self-discovery, fueled by hormones where children have that immense urge to explore and question everything. You won’t find any parent taking a back seat during this tumultuous period of adolescence.
 
@@ -47,7 +47,8 @@ But what is even more shocking is that most of the time parents are unaware of t
 In such cases, parents end up having no control over their children. They have no idea about who, what, when, and how their kids interact with people on social media.
 
 This unawareness is the root cause of a lot of behavioral and personality changes, and mental disorders in children which could have otherwise been treated, had the parents known about it.
-## 3. Features & Functionalities
+
+## 3. Features & Functionalities ✅
 
 We have recorded a video of the complete walkthrough of our project. [Click here]() to watch the video.
 
@@ -85,13 +86,13 @@ We have recorded a video of the complete walkthrough of our project. [Click here
   ![Screenshot 2024-01-08 013212](https://github.com/shrujaig14/Samwad/assets/134779004/bdf30967-9d93-4364-be2d-a1e223c45fc7)
 
   
-## Tech Stack
+## Tech Stack 👨‍💻
 
 
 | Streamlit|Matplotlib|seaborn|urlextract |  wordcloud | pandavs| Emojis                                
 | -| -| -| - |- |- |-
 
-## Usage Guidelines
+## Usage Guidelines 📝
 
 We have recorded a video of the complete walkthrough of our project. [Click here]() to watch the video.
 
