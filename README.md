@@ -7,7 +7,9 @@
 
 ## 1. Overview 🤔
 
-Samwad is a one-stop solution for parents to understand how their children spend their time on social media.
+Samwad is a parenting tool to bridge the communication gap between parents and children in their teenage by helping parents track the behavioral and personality changes as well as the mental health of their children.
+
+It is the one-stop solution for parents to understand how their children spend their time on social media.
 
 Samwad helps you get insights into any social media chat, both personal and group, to understand what’s going on in their children’s lives. Using this information, parents can keep track of whether their kids are on the right path and take actionable steps just in case they are not.
 
@@ -25,9 +27,6 @@ Our idea is to use Natural language processing (NLP) and data analysis technique
 - With this, you can keep a check on how much time your child spends on WhatsApp and whether he is using WhatsApp in odd hours like late at night.
 
 - The word cloud, most common words, and emoji analysis can help you understand the tonality of a conversation to get insights into his behavior and personality changes.
-
-Samwad is the perfect tool to bridge the communication gap between parents and children in their teenage by helping parents track the behavioral and personality changes as well as the mental health of their children.
-
 
 
 
