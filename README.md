@@ -88,7 +88,7 @@ We have recorded a video of the complete walkthrough of our project. [Click here
 ## Tech Stack 👨‍💻
 
 
-| Streamlit|Matplotlib|seaborn|urlextract |  wordcloud | pandavs| Emojis                                
+| Streamlit|Matplotlib|seaborn|urlextract |  wordcloud | pandas| Emojis                                
 | -| -| -| - |- |- |-
 
 ## Usage Guidelines 📝
