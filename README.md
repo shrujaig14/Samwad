@@ -3,7 +3,7 @@
 
 #### **Important Note before moving ahead**
 
-***[This documentation is purely a human effort and not an AI generated content piece]()***
+***[This documentation is purely a human effort and not an AI generated content piece](https://drive.google.com/file/d/1fmbjBZ_vFJC8ornYdPlrRMFz_yxcY2H2/view?usp=sharing)***
 
 ## 1. Overview 🤔
 
