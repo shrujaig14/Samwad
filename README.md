@@ -7,9 +7,9 @@
 
 ## 1. Overview 🤔
 
-Samwad is a parenting tool to bridge the communication gap between parents and children in their teenage by helping parents track the behavioral and personality changes as well as the mental health of their children.
+Samwad the one-stop solution for parents to understand how their children spend their time on social media.
 
-It is the one-stop solution for parents to understand how their children spend their time on social media.
+It is a parenting tool to bridge the communication gap between parents and children in their teenage by helping parents track the behavioral and personality changes as well as the mental health of their children.
 
 Samwad helps you get insights into any social media chat, both personal and group, to understand what’s going on in their children’s lives. Using this information, parents can keep track of whether their kids are on the right path and take actionable steps just in case they are not.
 
