@@ -5,6 +5,8 @@
 
 ***[This documentation is purely a human effort and not an AI generated content piece](https://drive.google.com/file/d/1fmbjBZ_vFJC8ornYdPlrRMFz_yxcY2H2/view?usp=sharing)***
 
+***[We value the effort in crafting our detailed content. For added convenience, a video presentation is available. Click the link to watch.](https://drive.google.com/file/d/188KSuuCmAiFMxkeMFY9ydJMfgH5bt3k6/view?usp=sharing)***
+
 ## 1. Overview 🤔
 
 Samwad the one-stop solution for parents to understand how their children spend their time on social media.
