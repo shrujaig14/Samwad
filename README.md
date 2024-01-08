@@ -51,7 +51,7 @@ This unawareness is the root cause of a lot of behavioral and personality change
 
 ## 3. Features & Functionalities ✅
 
-We have recorded a video of the complete walkthrough of our project. [Click here]() to watch the video.
+We have recorded a video of the complete walkthrough of our project. [Click here](https://drive.google.com/file/d/188KSuuCmAiFMxkeMFY9ydJMfgH5bt3k6/view?usp=sharing) to watch the video.
 
 **Features of samwad version 1.0**
 
