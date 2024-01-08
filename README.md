@@ -95,7 +95,7 @@ We have recorded a video of the complete walkthrough of our project. [Click here
 
 ## Usage Guidelines 📝
 
-We have recorded a video of the complete walkthrough of our project. [Click here]() to watch the video.
+We have recorded a video of the complete walkthrough of our project. [Click here](https://drive.google.com/file/d/188KSuuCmAiFMxkeMFY9ydJMfgH5bt3k6/view?usp=sharing) to watch the video.
 
 To analyze the whatsapp chats, we need to first export the chats (Make sure to export the chats without media). [Watch this](https://www.youtube.com/shorts/c3bTkXp9gqg) video to understand how to export chats. Our version 1.0 works only with 24 hour clock with the following date time format:- 
 
