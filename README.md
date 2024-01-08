@@ -104,5 +104,5 @@ To analyze the whatsapp chats, we need to first export the chats (Make sure to e
 
 (We are actively working on creating a generalized version of the date and time.)
 
-[Click here]() to get a few exported chats to test and analyze our product.
+[Click here](https://drive.google.com/file/d/1HsYSZymUhi7GSSUtFrgljUFSPAA9Z8oc/view?usp=sharing) to get a few exported chats to test and analyze our product.
 
