@@ -4,8 +4,9 @@ import seaborn as sns
 import helper
 import preprocessor
 
-st.sidebar.title("Samwad")
 st.set_page_config(page_title="Samwad: WhatsApp Chat Analyser")
+st.sidebar.title("Samwad")
+
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 
