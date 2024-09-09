@@ -19,7 +19,7 @@ Samwad helps you get insights into any social media chat, both personal and grou
 
 India has the most WhatsApp users with a head count of 535.8 million and WhatsApp is one of the top 3 social media platforms where people spend most of their time.
 
-Our idea is to use Natural language processing (NLP) and data analysis techniques to analyze the text chats and draw relevant insights out of it.
+Our idea is to use data analysis to analyze the text chats and draw relevant insights out of it.
 
 - The insights that you can get from the prototype include total messages, links, and media shared. 
 
